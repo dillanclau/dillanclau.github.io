@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://dillanlau.github.io/sitemap.xml
+Sitemap: https://dillanclau.github.io/sitemap.xml
